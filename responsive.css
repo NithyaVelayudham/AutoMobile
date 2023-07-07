@@ -1,0 +1,40 @@
+@media screen and (max-width:576px){
+    
+    .carousel{
+        height: 500px;
+ }
+        .carousel-inner{
+            margin-top: 20px;
+        width: 450px;
+        height: 500px;
+        
+       }
+       .carousel .card{
+        height: 300px;
+        width: 400px;
+
+       }
+       .card-body .carousel-caption{
+        margin-top: 10px;
+        font-size: 10px;
+        line-height: 15px;
+      }  
+      .carousel .card-body .icon img{
+        height: 50px;
+        width: 50px;
+        margin:20px auto;
+        padding: 20px auto;
+    }
+    
+     .carousel-control-prev{
+margin-top: -200px;
+     }   
+     .carousel-control-next{
+        margin-top: -200px;
+             }   
+    /*--form--*/
+    form .btn {
+        margin: 20px 100px;
+       
+      }
+    }
